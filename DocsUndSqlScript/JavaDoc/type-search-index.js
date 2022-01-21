@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"TKKG.DATA","l":"DatabaseInit"},{"p":"TKKG.DATA","l":"DatabaseManager"},{"p":"TKKG","l":"Main"},{"p":"TKKG.UI","l":"Menu"},{"p":"TKKG.DATA","l":"MetaData"},{"p":"TKKG.UI","l":"UserInput"}];updateSearchResults();
